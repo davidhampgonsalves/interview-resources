@@ -17,6 +17,9 @@ long list of resources for preparing for technical computer engineering intervie
 #Notable Post Interview Blog Posts
 * [Steve Yegge: Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 * [Steve Yegge: Phone Screen](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [David Byttow: ABC - Always Be Coding](https://medium.com/tech-talk/d5f8051afce2)
+* [David Byttow: Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
+* [Joel Spolsky: The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 
 #Long List of Wikipedia Resources
 * [Big-O](http://en.wikipedia.org/wiki/Big_O_notation)
