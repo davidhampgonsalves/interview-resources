@@ -3,7 +3,7 @@ interview-resources
 
 long list of resources for preparing for technical computer engineering interviews. 
 
-#Short List
+# Short List
 * [big-O cheat sheet](http://bigocheatsheet.com/#data-structures) - Refresher on the complexity of various algorithms.
 * [Design Patterns](http://viralpatel.net/blogs/download/design-pattern-scard.pdf) - Quick reference of design patterns.
 * [Sorting Algorithm Animation](http://www.sorting-algorithms.com/) - Sorting algorithms visualised.
@@ -14,27 +14,27 @@ long list of resources for preparing for technical computer engineering intervie
 * [Google Guava Source](https://code.google.com/p/guava-libraries/) - (Java)Review [source](https://code.google.com/p/guava-libraries/source/browse/) since it covers implementing collections, concurrency, etc.
 
 
-#Notable Post Interview Blog Posts
+# Notable Post Interview Blog Posts
 * [Steve Yegge: Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 * [Steve Yegge: Phone Screen](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [David Byttow: ABC - Always Be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [David Byttow: Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * [Joel Spolsky: The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 
-#Long List of Wikipedia Resources
+# Long List of Wikipedia Resources
 * [Big-O](http://en.wikipedia.org/wiki/Big_O_notation)
 * [Bitwise](http://en.wikipedia.org/wiki/Bitwise_operation)
 * [Dynamic Programming](http://en.wikipedia.org/wiki/Dynamic_programming)
 * [Fibonacci Numbers](http://en.wikipedia.org/wiki/Fibonacci_numbers)
 
 
-##Common Problems
+## Common Problems
 * [Partition](http://en.wikipedia.org/wiki/Partition_problem)
 * [Shortest Path](http://en.wikipedia.org/wiki/Shortest_path_problem)
 * [Traveling Saleman](http://en.wikipedia.org/wiki/Travelling_salesman_problem#As_a_graph_problem)
 
 
-##Sorts
+## Sorts
 * [Merge](http://en.wikipedia.org/wiki/Merge_sort)
 * [Quick](http://en.wikipedia.org/wiki/Quick_sort)
 * [Heap](http://en.wikipedia.org/wiki/Heapsort)
@@ -44,7 +44,7 @@ long list of resources for preparing for technical computer engineering intervie
 * [Radix](http://en.wikipedia.org/wiki/Radix_sort)
 
 
-##[Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures)
+## [Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures)
 * [Heap](http://en.wikipedia.org/wiki/Heap_(data_structure))
 * [Linked List](http://en.wikipedia.org/wiki/Linked_list)
 * [Tree](http://en.wikipedia.org/wiki/Tree_(data_structure))
@@ -53,18 +53,18 @@ long list of resources for preparing for technical computer engineering intervie
 * [Stack](http://en.wikipedia.org/wiki/Stack_(data_structure))
 * [Graph](http://en.wikipedia.org/wiki/Graph_(abstract_data_type))
 
-###Heaps
+### Heaps
 * [Binary Heap](http://en.wikipedia.org/wiki/Binary_heap)
 * [Binomial Heap](http://en.wikipedia.org/wiki/Binomial_heap)
 * [Fibonacci Heap](http://en.wikipedia.org/wiki/Fibonacci_heap)
 
-###Trees
+### Trees
 * [Traversal](http://en.wikipedia.org/wiki/Tree_traversal)
 * [B-Tree](http://en.wikipedia.org/wiki/B-tree)
 * [Trie](http://en.wikipedia.org/wiki/Trie)
 * [Suffix Tree](http://en.wikipedia.org/wiki/Suffix_tree)
 
-###Graphs
+### Graphs
 * [Graph Theory](http://en.wikipedia.org/wiki/Graph_theory)
 * [Graph Search](http://en.wikipedia.org/wiki/Graph_search_algorithm)
     * [DFS](http://en.wikipedia.org/wiki/Depth-first_search)
@@ -73,7 +73,7 @@ long list of resources for preparing for technical computer engineering intervie
     * [Dijkstra's algorithm](http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 
-##Design Patterns
+## Design Patterns
 * [State](http://en.wikipedia.org/wiki/State_pattern)
 * [Memento](http://en.wikipedia.org/wiki/Memento_pattern)
 * [Interpreter](http://en.wikipedia.org/wiki/Interpreter_pattern)
