@@ -21,6 +21,9 @@ long list of resources for preparing for technical computer engineering intervie
 * [David Byttow: Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * [Joel Spolsky: The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 
+# Online Interview Practice Platforms
+* [Pramp](https://www.pramp.com/ref/gt3)
+
 # Long List of Wikipedia Resources
 * [Big-O](http://en.wikipedia.org/wiki/Big_O_notation)
 * [Bitwise](http://en.wikipedia.org/wiki/Bitwise_operation)
